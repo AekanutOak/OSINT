@@ -375,3 +375,6 @@ The “Actions on Objective” stage is the final step in the Cyber Kill Chain, 
 | [Guardian Leaks](https://pentest-ground.com:81/) | Vulnerable Website to test hacking skils |
 
 <!-- End of Attack on Objectives Section -->
+
+# Thai Exclusive OSINT
+Coming soon ...
