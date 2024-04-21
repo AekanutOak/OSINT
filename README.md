@@ -144,7 +144,6 @@ The first stage of the Cyber Kill Chain is “Reconnaissance." This stage involv
 | [Synapsint](https://synapsint.com/) | Search IP/Domain, PII, Bitcoin Address, and CVE |
 | [Epieos](https://epieos.com/) | Search email and phone |
 | [AeroLeads](https://aeroleads.com/) | Search exposed PII |
-| [AeroLeads](https://aeroleads.com/) | Search exposed PII |
 | [Signal Hire](https://www.signalhire.com/) | Search exposed PII |
 | [Huner.io](https://hunter.io/) | Search exposed PII |
 | [Tomba](https://tomba.io/) | Email Finder |
