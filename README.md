@@ -348,9 +348,9 @@ Attack vector is installed on the victim’s system.
 | [Powershell Gallery](https://www.powershellgallery.com/) | Library of public powershell script |
 | [8gwifi](https://8gwifi.org/sshfunctions.jsp) | SSH Key generator |
 <!-- End of Installation Section -->
-## Command and Control
+# Command and Control
 “Command and Control” (C2) is the stage where the attacker establishes communication with the compromised system or network. This communication allows the attacker to maintain control, deliver commands, and receive data from the compromised systems. It is a critical stage as it enables ongoing interaction and control over the target.
-# Virtual Machine
+## Virtual Machine
 | **Name** | **Features** |
 |:--------|:------------|
 | [Check-Host.net Terminal](https://check-host.net/terminal) | Quick VNC/Linux Terminal (15 minutes limited) |
