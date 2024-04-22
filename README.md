@@ -20,9 +20,11 @@ The first stage of the Cyber Kill Chain is “Reconnaissance." This stage involv
 | [IP Locality](https://suip.biz/?act=iploc)| List of IPs classified by city/region |
 | [All ISP IP](https://suip.biz/?act=all-isp)| List of IPs classified by ISP |
 
+
 ## Network Test
 | **Name** | **Features** |
 |:--------|:------------|
+| [SSL Server Test](https://www.ssllabs.com/ssltest//index.html) | Test SSL Certificate on any site |
 | [Chinese Firewall Test](https://viewdns.info/chinesefirewall) | Check if site is `accessible from China` |
 | [Iran Firewall Test](https://viewdns.info/iranfirewall/) | Check if site is `accessible from Iran` |
 | [DNS Propagation Checker](https://viewdns.info/propagation) | Check if some `root DNS servers` can resolved the sites/domains |
@@ -250,7 +252,7 @@ The first stage of the Cyber Kill Chain is “Reconnaissance." This stage involv
 | [NFT Generator](https://www.20minutemail.com/NFTCreator) | Generate NFT Image |
 | [Minute In Box](https://www.minuteinbox.com/) | 10 Minutes Expired Email Address |
 | [Temp-mail](https://temp-mail.org/en/) | Temporary Email Address |
-| [Random Password Generator](tps://www.avast.com/random-password-generator) | Password Generator with some customization |
+| [Random Password Generator](https://www.avast.com/random-password-generator) | Password Generator with some customization |
 | [Fake Name Generator](https://www.fakenamegenerator.com/) | Identity Generator |
 | [Namelix](https://namelix.com/) | Business Brand Name with Logo Generator |
 | [NightCafe Studio](https://creator.nightcafe.studio/ai-face-generator) | AI Face Generator |
