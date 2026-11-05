@@ -169,6 +169,7 @@ The first stage of the Cyber Kill Chain is “Reconnaissance." This stage involv
 | [Twitter Advanced Search](https://github.com/igorbrigadir/twitter-advanced-search) | Twitter Advanced Search |
 | [Linkedin Timestamp Extractor](https://ollie-boyd.github.io/Linkedin-post-timestamp-extractor/) | Find LinkedIn Post Timestamp |
 | [Tiktok Quick Search](https://www.osintcombine.com/free-osint-tools/tiktok-quick-search) | Search Tiktok by name, hashtag, or keyword |
+| [TKMetrics](https://tkmetrics.com/) | Public TikTok creator stats and creator lists by country |
 | [Reddit Post Analyzer](https://www.osintcombine.com/free-osint-tools/reddit-post-analyser) | Analyze Reddit Post |
 | [Have I been pwned?](https://haveibeenpwned.com/) | Check if email address appeared on data leakage event |
 
